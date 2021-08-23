@@ -1,0 +1,33 @@
+{
+  "produto": [
+    {
+      "id": 1,
+      "name": "Iphone 12",
+      "price": 8000,
+      "discount": 5,
+      "description": {
+        "features": "touch screen"
+      }
+    },
+
+    {
+      "id": 2,
+      "name": "Iphone 12 MAX",
+      "price": 8500,
+      "discount": 5,
+      "description": {
+        "features": "touch screen"
+      }
+    },
+
+    {
+      "id": 3,
+      "name": "Samsung S20",
+      "price": 8000,
+      "discount": 5,
+      "description": {
+        "features": "touch screen"
+      }
+    }
+  ]
+}
