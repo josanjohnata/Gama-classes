@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Josan Johnata",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^7.0.1"
+  }
 }
