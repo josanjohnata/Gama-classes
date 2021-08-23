@@ -8,6 +8,6 @@
     "start": "node src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Josan Johnata",
   "license": "ISC"
 }
