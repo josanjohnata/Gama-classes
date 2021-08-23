@@ -8,6 +8,9 @@
     "start": "node src/index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Josan Johnata",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^7.0.1"
+  }
 }
